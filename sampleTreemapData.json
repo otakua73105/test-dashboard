@@ -1,0 +1,57 @@
+{
+    "name": "root",
+    "children": [
+        {
+            "name": "Bought Online",
+            "children": [
+                {
+                    "name": "Printers",
+                    "value": 19,
+                    "children": [
+                        {
+                            "value": 16,
+                            "category": "Bought Online",
+                            "subcategory": "Printers",
+                            "name": "MB Series"
+                        },
+                        {
+                            "value": 2,
+                            "category": "Bought Online",
+                            "subcategory": "Printers",
+                            "name": "TS Series"
+                        }
+                    ]
+                },
+                {
+                    "name": "Copiers, MFPs, Fax Machines",
+                    "value": 2,
+                    "children": [
+                        {
+                            "value": 2,
+                            "category": "Bought Online",
+                            "subcategory": "Copiers, MFPs, Fax Machines",
+                            "name": "imageCLASS"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Bought Offline",
+            "children": [
+                {
+                    "name": "Printers",
+                    "value": 1,
+                    "children": [
+                        {
+                            "value": 1,
+                            "category": "Bought Online",
+                            "subcategory": "Printers",
+                            "name": "TR Series"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
